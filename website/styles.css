@@ -1,0 +1,37 @@
+body {
+background-color: rgb(97, 103, 107);
+}
+h1 {
+  color: #ffffffff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  color: #ffffffff;
+}
+.top_panel {
+  position: absolute;
+
+  background-color: #001e36ff;
+  color: #ffffffff;
+  border-radius: 0px 0px 15px 15px;
+  width:fit-content;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+.monitor {
+  position: absolute;
+  width: 60%;
+  height: 30%;
+  top: 50%;
+  left 50%;
+  background-color: rgb(79, 167, 155);
+  border: 50px;
+  border-color: black;
+  border-radius: 25px;
+  
+}
+
+  
